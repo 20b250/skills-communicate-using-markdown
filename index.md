@@ -5,3 +5,14 @@
 Now, an image of a Dojocat:
 
 ![Image of Dojocat](https://octodex.github.com/images/dojocat.jpg)
+
+Code sample
+
+``` c
+#include <stdio.h>
+
+int main(void){
+    printf("Hello, world!");
+    return 0;
+}
+```
