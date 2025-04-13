@@ -16,3 +16,10 @@ int main(void){
     return 0;
 }
 ```
+## Task list
+
+- [x] Add headers
+- [x] Add image
+- [x] Add code sample
+- [x] Add tasklist
+- [ ] Next steps...
